@@ -6,7 +6,7 @@ require 'vendor/autoload.php';
 
 $app = new \Slim\App;
 
-\\ ทดสอบโว้ย
+\\ ทดสอบโว้ย  ครั้งที่สอง
 
 $app->get ('/main', function (){ echo 'หน้าแรก';
 });
