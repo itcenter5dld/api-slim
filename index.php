@@ -19,6 +19,7 @@ $app->get ('/forgot', function (){ echo 'ลืมรหัส';
 $app->get ('/edit', function (){ echo 'แก้ไขข้อมูลส่วนตัว';
 });
 
+
 $app->get ('/search', function (){ echo 'ค้นหาสถานที่';
 });
 
